@@ -16,3 +16,5 @@ $dynamicsClient = new dynamicsClient('email','password','orgname.crm4.dynamics.c
 ```
 
 If the debug mode is set to 1 then all requests and reponse data will be printed.
+
+**Please note I have been told Microsoft might have updated their authentication method.**
